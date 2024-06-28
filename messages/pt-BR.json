@@ -1,0 +1,72 @@
+{
+  "tripPlanner": {
+    "title": "Planejador de Viagens",
+    "planYourNextAdventure": "Planeje sua próxima aventura",
+    "whereDoYouWantToGo": "Para onde você quer ir?",
+    "selectACity": "Selecione uma cidade",
+    "selectDates": "Selecione as datas",
+    "addDestination": "Adicionar destino",
+    "activities": {
+      "selectTheKindOfActivitiesYouWantToDo": "Selecione o tipo de atividades que você quer fazer",
+      "kidFriendly": "Para crianças",
+      "museums": "Museus",
+      "shopping": "Compras",
+      "historical": "Histórico",
+      "outdoorAdventures": "Aventuras ao ar livre",
+      "artCultural": "Arte e Cultura",
+      "amusementParks": "Parques de Diversões",
+      "sports": "Esportes",
+      "nightLife": "Vida Noturna",
+      "foodAndDrink": "Comida e Bebida"
+    },
+    "people": {
+      "howManyPeopleAreGoing": "Quantas pessoas estão indo?",
+      "1Person": "1 Pessoa",
+      "2People": "2 Pessoas",
+      "3People": "3 Pessoas",
+      "4OrMorePeople": "4 ou mais pessoas"
+    },
+    "createNewTrip": "Criar Nova Viagem",
+    "myTrips": "Minhas Viagens",
+    "tripDetails": {
+      "tripOverview": "Visão Geral da Viagem",
+      "editTrip": "Editar Viagem",
+      "deleteTrip": "Excluir Viagem",
+      "shareTrip": "Compartilhar Viagem",
+      "activities": "Atividades",
+      "accommodations": "Acomodações",
+      "transportation": "Transporte",
+      "budget": "Orçamento",
+      "notes": "Notas"
+    },
+    "common": {
+      "save": "Salvar",
+      "cancel": "Cancelar",
+      "delete": "Excluir",
+      "edit": "Editar",
+      "confirm": "Confirmar",
+      "back": "Voltar",
+      "next": "Próximo",
+      "previous": "Anterior",
+      "search": "Buscar"
+    }
+  },
+  "auth": {
+    "login": "Entrar",
+    "logout": "Sair",
+    "register": "Registrar",
+    "email": "Email",
+    "password": "Senha",
+    "confirmPassword": "Confirmar Senha",
+    "forgotPassword": "Esqueceu a Senha?",
+    "resetPassword": "Redefinir Senha"
+  },
+  "messages": {
+    "welcome": "Bem-vindo ao Planejador de Viagens",
+    "loading": "Carregando...",
+    "error": {
+      "generic": "Algo deu errado, por favor tente novamente.",
+      "network": "Problema de conexão, por favor verifique sua internet."
+    }
+  }
+}

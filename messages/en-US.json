@@ -1,0 +1,72 @@
+{
+  "tripPlanner": {
+    "title": "Trip Planner",
+    "planYourNextAdventure": "Plan your next adventure",
+    "whereDoYouWantToGo": "Where do you want to go?",
+    "selectACity": "Select a city",
+    "selectDates": "Select dates",
+    "addDestination": "Add destination",
+    "activities": {
+      "selectTheKindOfActivitiesYouWantToDo": "Select the kind of activities you want to do",
+      "kidFriendly": "Kid Friendly",
+      "museums": "Museums",
+      "shopping": "Shopping",
+      "historical": "Historical",
+      "outdoorAdventures": "Outdoor Adventures",
+      "artCultural": "Art & Cultural",
+      "amusementParks": "Amusement Parks",
+      "sports": "Sports",
+      "nightLife": "Night Life",
+      "foodAndDrink": "Food and Drink"
+    },
+    "people": {
+      "howManyPeopleAreGoing": "How many people are going?",
+      "1Person": "1 Person",
+      "2People": "2 People",
+      "3People": "3 People",
+      "4OrMorePeople": "4 or more People"
+    },
+    "createNewTrip": "Create New Trip",
+    "myTrips": "My Trips",
+    "tripDetails": {
+      "tripOverview": "Trip Overview",
+      "editTrip": "Edit Trip",
+      "deleteTrip": "Delete Trip",
+      "shareTrip": "Share Trip",
+      "activities": "Activities",
+      "accommodations": "Accommodations",
+      "transportation": "Transportation",
+      "budget": "Budget",
+      "notes": "Notes"
+    },
+    "common": {
+      "save": "Save",
+      "cancel": "Cancel",
+      "delete": "Delete",
+      "edit": "Edit",
+      "confirm": "Confirm",
+      "back": "Back",
+      "next": "Next",
+      "previous": "Previous",
+      "search": "Search"
+    }
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "forgotPassword": "Forgot Password?",
+    "resetPassword": "Reset Password"
+  },
+  "messages": {
+    "welcome": "Welcome to the Trip Planner",
+    "loading": "Loading...",
+    "error": {
+      "generic": "Something went wrong, please try again.",
+      "network": "Connection problem, please check your internet."
+    }
+  }
+}
